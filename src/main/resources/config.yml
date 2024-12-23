@@ -1,0 +1,12 @@
+
+database:
+  host: localhost
+  port: 3306
+  name: kingdom_db
+  username: root
+  password: yourpassword
+
+kingdom:
+  max-members: 50
+  min-members: 1
+  creation-cost: 1000

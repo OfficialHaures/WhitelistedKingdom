@@ -1,0 +1,9 @@
+name: WhitelistedKingdom
+version: '1.0'
+main: nl.inferno.whitelistedKingdom.WhitelistedKingdom
+api-version: '1.21'
+commands:
+  kingdom:
+    description: Main kingdom command
+    aliases: [k, kd]
+    usage: /kingdom <subcommand>
